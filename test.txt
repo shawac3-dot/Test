@@ -1,1 +1,2 @@
-Hello, this is a test message to see if the repository is working.
+Hello, this is a test message to see if the repository is working.  Here is a simple change.
+Hello again.
